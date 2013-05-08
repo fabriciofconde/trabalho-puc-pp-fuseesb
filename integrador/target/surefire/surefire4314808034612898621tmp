@@ -1,6 +1,0 @@
-#surefire
-#Mon Apr 29 19:57:33 BRT 2013
-camel.fileApplicationContextUri=file\:/C\:/developer/workspaces/workspace-fuse-ide/integrador/src/main/resources/META-INF/spring/Integrador.xml
-user.dir=C\:\\developer\\workspaces\\workspace-fuse-ide\\integrador
-localRepository=D\:\\Users\\fabricio.conde\\.m2\\repository
-basedir=C\:\\developer\\workspaces\\workspace-fuse-ide\\integrador
